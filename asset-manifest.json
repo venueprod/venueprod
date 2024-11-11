@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab9374dd.css",
+    "main.js": "/static/js/main.81fc4511.js",
+    "static/media/login-design-bg.png": "/static/media/login-design-bg.b50b2b08db9ce5780814.png",
+    "static/media/buildings-img.png": "/static/media/buildings-img.c9c3625391386917fb54.png",
+    "static/media/PageNotFound.png": "/static/media/PageNotFound.4772daeba3d9b496ff52.png",
+    "static/media/photo.png": "/static/media/photo.3140efe018563c425a82.png",
+    "static/media/add-venue-details-design.png": "/static/media/add-venue-details-design.a927792fd528a4ee12d9.png",
+    "static/media/create-menu.png": "/static/media/create-menu.f3a5b8cf61a5572639e2.png",
+    "static/media/no-inquiry.png": "/static/media/no-inquiry.fbf31ee1e6851d60da1c.png",
+    "static/media/guest-detail-design.png": "/static/media/guest-detail-design.43fcf818ad226aa78b2f.png",
+    "static/media/add-taxes-img.png": "/static/media/add-taxes-img.5bdca4eda2bc156fd8f2.png",
+    "static/media/create-doc-img.png": "/static/media/create-doc-img.6d6562455d3db3dc8231.png",
+    "static/media/disposed-img.png": "/static/media/disposed-img.a721b2db8a1d910ab50a.png",
+    "static/media/new-notification.png": "/static/media/new-notification.9a021dfdc39a77018d32.png",
+    "static/media/summary-date.png": "/static/media/summary-date.0075e43e16efaaa2b1d4.png",
+    "static/media/popup-tick-img.png": "/static/media/popup-tick-img.8a425cc286ed9c549eda.png",
+    "static/media/sub-img-1.png": "/static/media/sub-img-1.c8c6b9ff086a78de80bb.png",
+    "static/media/female_image.png": "/static/media/female_image.cca33bef842a4e477ed7.png",
+    "static/media/male_image.png": "/static/media/male_image.3a3255ad486dd50a95d5.png",
+    "static/media/sub-img-3.png": "/static/media/sub-img-3.dbd38000572ff56479fd.png",
+    "static/media/sub-img-2.png": "/static/media/sub-img-2.5372afa79c8f18259cc6.png",
+    "index.html": "/index.html",
+    "main.ab9374dd.css.map": "/static/css/main.ab9374dd.css.map",
+    "main.81fc4511.js.map": "/static/js/main.81fc4511.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab9374dd.css",
+    "static/js/main.81fc4511.js"
+  ]
+}
