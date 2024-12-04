@@ -7,7 +7,7 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-Content-Type-Options": "nosniff",
     "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
-    "Content-Security-Policy": "default-src 'self'; style-src 'self' https://fonts.googleapis.com/ 'unsafe-inline'; connect-src 'self' https://booznovenueqa.api.dweb.in/api/ ws://localhost:3000/ https://booznovenueuat.api.dweb.in/api/ https://booznoapi-hmffgzeshmd7adff.centralindia-01.azurewebsites.net/api/; img-src 'self' https://booznodocument.blob.core.windows.net data: blob:; font-src 'self' https://fonts.gstatic.com data:; object-src 'none'; frame-src 'none'; frame-ancestors 'self'; form-action 'self'; script-src 'self';",
+    "Content-Security-Policy": "default-src 'self'; style-src 'self' https://fonts.googleapis.com/ 'unsafe-inline'; connect-src 'self' https://booznovenueqa.api.dweb.in/api/ ws://localhost:3000/ https://booznovenueuat.api.dweb.in/api/ https://booznoapi-hmffgzeshmd7adff.centralindia-01.azurewebsites.net/api/; img-src 'self' https://booznodocument.blob.core.windows.net https://prodbooznodocument.blob.core.windows.net data: blob:; font-src 'self' https://fonts.gstatic.com data:; object-src 'none'; frame-src 'none'; frame-ancestors 'self'; form-action 'self'; script-src 'self';",
     "Referrer-Policy": "no-referrer",
     "Permissions-Policy": "geolocation=(), microphone=()"
   }
